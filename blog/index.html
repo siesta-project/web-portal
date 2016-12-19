@@ -7,6 +7,6 @@ title: AG's Blog
 
   {% for post in site.posts %}
   <li><span>{{ post.date | date_to_string }}</span> »
-    <a href="{{ baseurl }}/{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    <a href="{{ baseurl }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
       {% endfor %}
 </ul>
