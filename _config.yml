@@ -10,3 +10,5 @@ markdown: kramdown
 # then add in the baseurl here, like this: "/repository-name"
 
 baseurl: "/web-portal"
+#
+support_material: "http://departamentos.icmab.es/leem/SIESTA_MATERIAL"
