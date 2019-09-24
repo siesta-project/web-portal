@@ -2,11 +2,8 @@
 layout: siesta-nav
 title: The Team
 ---
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-</head> 
-<table width='100%' border='0'>
 
+<table width='100%' border='0'>
   <td><br></td>
   <tr bgcolor="#666666">
     <td class='contentheading'><font color="white">Siesta Contributors</front></td>
@@ -14,7 +11,8 @@ title: The Team
   <tr>
     <td colspan="3"><br></td>
     </tr>
-  </table><!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
+</table><!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
+
 <p>
 <a href="./Contributors.html">List of contributors to the development of SIESTA</a>
 </p>
@@ -24,277 +22,27 @@ title: The Team
   <td><br></td>
   <tr bgcolor="#666666">
     <td class='contentheading'><font color="white">Siesta Steering Committee</font></td>
-    </tr>
-  <tr>
-    <td colspan="3"><br></td>
-    </tr>
-  </table><!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
-
-<table width='100%' border='0' rules=none cellspacing=0 >
-  <tr>
-    <td class='contentheading'>
-      Emilio Artacho</td>
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/EA4.jpg' >
-      </td>
-    </tr>
-
-  <tr>
-    <TD><strong>Institution:</strong>CIC NanoGune (San Sebastian) and University of Cambridge</TD>
-    </tr>
-  <tr>
-    <TD><strong>Web:</strong> <a href='http://theory.nanogune.eu' target='_blank'>http://theory.nanogune.eu</a></TD>
-    </tr>
-
-  <tr>
-    <TD><strong>E-mail:</strong> e.artacho ( at ) nanogune.edu</TD>
-    </tr>
-  <!--tr>
-      <TD><strong>
-	  <a href='/siesta-joomla/index.php?option=com_curriculums&task=view_cv&id=2'>
-	    view more info <img border='0' src='./components/com_curriculums/img/info.png' title="View details"></strong>
-	</a></TD>
-      </tr--><tr><td><br></td></tr>
-  </table>
-
-<!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
-<table width='100%' border='0' rules=none cellspacing=0 >
-
-  <tr>
-    <td class='contentheading'>
-      José M. Cela</td>
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/JMCela.png' >
-      </td>
   </tr>
   <tr>
+    <td colspan="3"><br></td>
+  </tr>
+</table><!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
 
-    <TD><strong>Institution:</strong> Barcelona Supercomputing Center</TD>
-    </tr>
+{% for member in site.data.steering %}
+ <table width='100%' border='2px' rules=none cellspacing=0 >
   <tr>
-    <TD><strong>Web:</strong> <a href='http://www.bsc.es/about-bsc/staff-directory/cela-espin-jose-maria' target='_blank'>http://www.bsc.es/about-bsc/staff-directory/cela-espin-jose-maria</a></TD>
-    </tr>
+    <td class='contentheading'> {{member.name}}</td>
+    <td rowspan="5" width='200'>  <img border='0'
+    src='{{ member.picture | relative_url }}'> </td>
+  </tr>
   <tr>
-
-    <TD><strong>E-mail:</strong> josem.cela ( at ) bsc.es</TD>
-    </tr>
-  <!--tr>
-      <TD><strong>
-	  <a href='/siesta-joomla/index.php?option=com_curriculums&task=view_cv&id=12'>
-	    view more info <img border='0' src='./components/com_curriculums/img/info.png' title="View details"></strong>
-	</a></TD>
-      </tr--><tr><td><br></td></tr>
-  </table>
-<!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
-<table width='100%' border='0' rules=none cellspacing=0 >
+    <TD><strong>Institution:</strong>{{member.institution}} </TD>
+  </tr>
   <tr>
-
-    <td class='contentheading'>
-      Julian Gale</td>
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/JulianGale.png' >
-      </td>
-    </tr>
+    <TD><strong>Web:</strong> <a href="{{member.web}}" target='_blank'>{{member.web}}</a></TD>
+  </tr>
   <tr>
-    <TD><strong>Institution:</strong> Curtin University of Technology</TD>
-
-    </tr>
-  <tr>
-    <TD><strong>Web:</strong> <a href='https://chemistry.curtin.edu.au/people/academic.cfm/J.Gale' target='_blank'>https://chemistry.curtin.edu.au/people/academic.cfm/J.Gale</a></TD>
-    </tr>
-  <tr>
-    <TD><strong>E-mail:</strong> julian ( at ) ivec.org</TD>
-
-    </tr>
-  <!--tr>
-      <TD><strong>
-	  <a href='/siesta-joomla/index.php?option=com_curriculums&task=view_cv&id=3'>
-	    view more info <img border='0' src='./components/com_curriculums/img/info.png' title="View details"></strong>
-	</a></TD>
-      </tr--><tr><td><br></td></tr>
-  </table>
-<!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
-<table width='100%' border='0' rules=none cellspacing=0 >
-  <tr>
-    <td class='contentheading'>
-      Alberto García</td>
-
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/alberto-garcia.jpg' >
-      </td>
-    </tr>
-  <tr>
-    <TD><strong>Institution:</strong> Instituto de Ciencia de Materiales de Barcelona (ICMAB - CSIC)</TD>
-    </tr>
-
-  <tr>
-    <TD><strong>Web:</strong> <a href='http://www.icmab.es/leem/alberto' target='_blank'>http://www.icmab.es/leem/alberto</a></TD>
-    </tr>
-  <tr>
-    <TD><strong>E-mail:</strong> </TD>
-    </tr>
-
-  <!--tr>
-      <TD><strong>
-	  <a href='/siesta-joomla/index.php?option=com_curriculums&task=view_cv&id=4'>
-	    view more info <img border='0' src='./components/com_curriculums/img/info.png' title="View details"></strong>
-	</a></TD>
-      </tr--><tr><td><br></td></tr>
-  </table>
-<!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
-<table width='100%' border='0' rules=none cellspacing=0 >
-  <tr>
-    <td class='contentheading'>
-      Javier Junquera</td>
-    <td rowspan="5" width='200'>
-
-      <img border='0' src='./stored_cv/images/foto-javier-1.jpg' >
-      </td>
-    </tr>
-  <tr>
-    <TD><strong>Institution:</strong> Universidad de Cantabria (UNICAN)</TD>
-    </tr>
-  <tr>
-
-    <TD><strong>Web:</strong> <a href='http://personales.unican.es/junqueraj' target='_blank'>http://personales.unican.es/junqueraj</a></TD>
-    </tr>
-  <tr>
-    <TD><strong>E-mail:</strong> </TD>
-    </tr>
-  <!--tr>
-      <TD><strong>
-	  <a href='/siesta-joomla/index.php?option=com_curriculums&task=view_cv&id=5'>
-	    view more info <img border='0' src='./components/com_curriculums/img/info.png' title="View details"></strong>
-	</a></TD>
-      </tr--><tr><td><br></td></tr>
-
-  </table>
-<!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
-<table width='100%' border='0' rules=none cellspacing=0 >
-  <tr>
-    <td class='contentheading'>
-      Richard M. Martin</td>
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/RichardMartin.jpg' >
-      </td>
-    </tr>
-  <tr>
-    <TD><strong>Institution:</strong>Formerly at the Univ. of Illinois at Urbana </TD>
-    </tr>
-  <tr>
-    <TD><strong>Web:</strong> <a href='http://people.physics.illinois.edu/rmartin/' target='_blank'>http://people.physics.illinois.edu/rmartin/</a></TD>
-
-    </tr>
-  <tr>
-    <TD><strong>E-mail:</strong> rmartin ( at ) uiuc.edu</TD>
-    </tr>
-  <!--tr>
-      <TD><strong>
-	  <a href='/siesta-joomla/index.php?option=com_curriculums&task=view_cv&id=6'>
-	    view more info <img border='0' src='./components/com_curriculums/img/info.png' title="View details"></strong>
-	</a></TD>
-      </tr--><tr><td><br></td></tr>
-  </table>
-
-<table width='100%' border='0' rules=none cellspacing=0 >
-  <tr>
-    <td class='contentheading'>
-      Pablo Ordejón</td>
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/ordejon150.jpg' >
-      </td>
-    </tr>
-
-  <tr>
-    <TD><strong>Institution:</strong> Centro de Investigación en Nanociencia y Nanotecnología (CSIC-ICN)</TD>
-    </tr>
-  <tr>
-    <TD><strong>Web:</strong> <a href='http://www.cin2.es/groups/theory' target='_blank'>http://www.cin2.es/groups/theory</a></TD>
-    </tr>
-
-  <tr>
-    <TD><strong>E-mail:</strong> </TD>
-    </tr>
-      <tr><td><br></td></tr>
-  </table>
-
-<table width='100%' border='0' rules=none cellspacing=0 >
-  <tr>
-    <td class='contentheading'>
-      Nick R. Papior</td>
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/nick_papior.png' >
-      </td>
-    </tr>
-
-  <tr>
-    <TD><strong>Institution:</strong> Technical University of Denmark (DTU Compute)</TD>
-    </tr>
-  <tr>
-    <TD><strong>Web:</strong> <a href='http://www.dtu.dk/english/service/phonebook/person?id=36189&cpid=103793&tab=2&qt=dtupublicationquery' target='_blank'>DTU</a></TD>
-    </tr>
-
-  <tr>
-    <TD><strong>E-mail:</strong> </TD>
-    </tr>
-      <tr><td><br></td></tr>
-  </table>
-
-<table width='100%' border='0' rules=none cellspacing=0 >
-  <tr>
-
-    <td class='contentheading'>
-      Daniel Sánchez-Portal</td>
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/Daniel.png' >
-      </td>
-
-    </tr>
-  <tr>
-    <TD><strong>Institution:</strong> Centro de Física de Materiales CSIC/UPV-EHU</TD>
-
-    </tr>
-  <tr>
-    <TD><strong>Web:</strong> <a href='http://dipc.ehu.es/group/Sanchez.htm' target='_blank'>http://dipc.ehu.es/group/Sanchez.htm</a></TD>
-    </tr>
-  <tr>
-    <TD><strong>E-mail:</strong> </TD>
-
-    </tr>
-  <!--tr>
-      <TD><strong>
-	  <a href='/siesta-joomla/index.php?option=com_curriculums&task=view_cv&id=7'>
-	    view more info <img border='0' src='./components/com_curriculums/img/info.png' title="View details"></strong>
-	</a></TD>
-      </tr--><tr><td><br></td></tr>
-  </table>
-<!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
-<table width='100%' border='0' rules=none cellspacing=0 >
-  <tr>
-    <td class='contentheading'>
-      José M. Soler</td>
-
-    <td rowspan="5" width='200'>
-      <img border='0' src='./stored_cv/images/jose.jpg' >
-      </td>
-    </tr>
-  <tr>
-    <TD><strong>Institution:</strong> Universidad Autónoma de Madrid (UAM)</TD>
-    </tr>
-
-  <tr>
-    <TD><strong>Web:</strong> <a href='http://www.uam.es/jose.soler' target='_blank'>http://www.uam.es/jose.soler</a></TD>
-    </tr>
-  <tr>
-    <TD><strong>E-mail:</strong> jose.soler ( at ) uam.es</TD>
-    </tr>
-
-  <!--tr>
-      <TD><strong>
-	  <a href='/siesta-joomla/index.php?option=com_curriculums&task=view_cv&id=8'>
-	    view more info <img border='0' src='./components/com_curriculums/img/info.png' title="View details"></strong>
-	</a></TD>
-      </tr--><tr><td><br></td></tr>
-  </table>
-
-
+    <TD><strong>E-mail:</strong> {{member.email}}</TD>
+  </tr>
+ </table>
+{% endfor %}
