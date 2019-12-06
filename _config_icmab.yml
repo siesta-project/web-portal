@@ -10,7 +10,7 @@ markdown: kramdown
 # then add in the baseurl here, like this: "/repository-name"
 
 #baseurl: "/web-portal"
-baseurl: "https://departments.icmab.es/leem/siesta-jekyll"
+baseurl: "/leem/siesta-jekyll"
 #
 # Notice the "departamentos", which seems to work also (for now?)
 #
