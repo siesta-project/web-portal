@@ -12,8 +12,6 @@ markdown: kramdown
 #baseurl: "/web-portal"
 baseurl: "/leem/siesta-jekyll"
 #
-# Notice the "departamentos", which seems to work also (for now?)
-#
-support_material: "http://departamentos.icmab.es/leem/SIESTA_MATERIAL"
+material_baseurl: "/leem/SIESTA_MATERIAL"
 
 

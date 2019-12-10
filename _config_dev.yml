@@ -12,4 +12,4 @@ markdown: kramdown
 #baseurl: "/web-portal"
 baseurl: "/Users/ag/W/Siesta/WEBS/web-portal/_site"
 #
-support_material: "http://departamentos.icmab.es/leem/SIESTA_MATERIAL"
+material_baseurl: "http://departments.icmab.es/leem/SIESTA_MATERIAL"
