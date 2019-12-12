@@ -10,7 +10,7 @@ markdown: kramdown
 # then add in the baseurl here, like this: "/repository-name"
 
 #baseurl: "/web-portal"
-baseurl: "/leem/siesta-jekyll"
+baseurl: "/leem/siesta"
 #
 material_baseurl: "/leem/SIESTA_MATERIAL"
 
