@@ -1,15 +1,15 @@
-Repository to maintain the SIESTA-projects website.
+Repository to maintain the SIESTA-project website.
 
-The SIESTA-project is maintained and hosted on Launchpad and can be found [here][siesta-launchpad].
+The SIESTA-project is maintained and hosted on Gitlab and can be found [here][siesta-gitlab].
 
-The SIESTA-project web-page can be found [here][siesta-web].
+The automatically-generated SIESTA-project Github-pages web-page can be found [here][siesta-web].
 
 
 <!---
 Links to external and internal sites.
 -->
 [siesta-web]: http://siesta-project.github.io/web-portal/index.html
-[siesta-launchpad]: https://launchpad.net/siesta
+[siesta-gitlab]: https://gitlab.com/siesta-project/siesta
 
 <!---
 Local variables for emacs to turn on flyspell-mode
