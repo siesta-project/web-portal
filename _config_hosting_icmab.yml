@@ -10,6 +10,8 @@ markdown: kramdown
 # then add in the baseurl here, like this: "/repository-name"
 
 #baseurl: "/web-portal"
-baseurl: "/Users/ag/W/Siesta/WEBS/web-portal/_site"
+baseurl: "/siesta"
 #
-material_baseurl: "https://siesta.icmab.es/SIESTA_MATERIAL"
+material_baseurl: "/SIESTA_MATERIAL"
+
+
