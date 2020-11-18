@@ -12,8 +12,8 @@
 
 - name:		Julian Gale
   institution:  Curtin University of Technology
-  web:		https://chemistry.curtin.edu.au/people/academic.cfm/J.Gale
-  email:	julian (at) ivec.org
+  web:		https://research.curtin.edu.au/supervisor/prof-julian-gale/
+  email:	J.Gale (at) curtin.edu.au
   picture:  	/assets/img/JulianGale.png
 
 - name:		Alberto García
@@ -36,7 +36,7 @@
 
 - name:		Pablo Ordejón
   institution:  Institut Catala de Nanociencia i Nanotecnologia (ICN2) and CSIC
-  web:		http://www.cin2.es/groups/theory
+  web:		https://icn2.cat/en/theory-and-simulation-group/pablo-ordejon
   email:	()
   picture:  	/assets/img/ordejon150.jpg
 
@@ -54,7 +54,7 @@
 
 - name:		José M. Soler
   institution:  Universidad Autónoma de Madrid (UAM)
-  web:		http://www.uam.es/jose.soler
+  web:		http://webs.fmc.uam.es/jose.soler/
   email:	jose.soler (at) uam.es
   picture:  	/assets/img/jose.jpg
 
