@@ -6,7 +6,7 @@
 #
 # For the hosting site
 #
-jekyll build --config _config_icmab_hosting.yml
+jekyll build --config _config_hosting_icmab.yml
 #
 # You need some setup for rclone to work
 # Use 'copy' instead of 'sync' to avoid deleting files for now
