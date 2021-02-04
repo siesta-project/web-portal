@@ -12,6 +12,6 @@ markdown: kramdown
 #baseurl: "/web-portal"
 baseurl: "/leem/siesta"
 #
-material_baseurl: "https://siesta.icmab.es/SIESTA_MATERIAL"
+material_baseurl: "https://siesta-project.org/SIESTA_MATERIAL"
 
 
