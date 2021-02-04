@@ -9,5 +9,5 @@ paper providing an overview of recent developments and sample applications of Si
 <a href="https://doi.org/10.1063/5.0005077">J. Chem. Phys. 152,
     204108 (2020)</a>.
 
-(A postprint open-access version is available <a href="https://digital.csic.es/bitstream/10261/213028/1/GarciaArribas_JChemPhys_2020_postprint.pdf">here</a>.)
+(A postprint open-access version is available <a href="https://digital.csic.es/bitstream/10261/213028/1/GarciaArribas_JChemPhys_2020_postprint.pdf">here</a> and <a href="https://arxiv.org/abs/2006.01270">here</a>.)
 
