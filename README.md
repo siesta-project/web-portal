@@ -1,8 +1,8 @@
 Repository to maintain the SIESTA-project website.
 
-The SIESTA-project is maintained and hosted on Gitlab and can be found [here][siesta-gitlab].
+The SIESTA-project is maintained and hosted on GitLab and can be found [here][siesta-gitlab].
 
-The automatically-generated SIESTA-project Github-pages web-page can be found [here][siesta-web].
+The automatically-generated SIESTA-project GitHub-pages web-page can be found [here][siesta-web].
 
 
 <!---
