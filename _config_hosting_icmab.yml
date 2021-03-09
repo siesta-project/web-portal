@@ -9,9 +9,14 @@ markdown: kramdown
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
+canonical_baseurl: "https://siesta-project.org/siesta"
+#
 #baseurl: "/web-portal"
 baseurl: "/siesta"
 #
 material_baseurl: "/SIESTA_MATERIAL"
 
-
+exclude:
+  - BUILDS
+  - README.md
+  - "*.sh"
