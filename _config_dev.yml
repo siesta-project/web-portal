@@ -15,3 +15,8 @@ canonical_baseurl: "https://siesta-project.org/siesta"
 baseurl: "/Users/ag/W/Siesta/WEBS/web-portal/_site"
 #
 material_baseurl: "https://siesta.icmab.es/SIESTA_MATERIAL"
+
+exclude:
+  - BUILDS
+  - README.md
+  - "*.sh"

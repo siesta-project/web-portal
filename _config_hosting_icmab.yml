@@ -16,4 +16,7 @@ baseurl: "/siesta"
 #
 material_baseurl: "/SIESTA_MATERIAL"
 
-
+exclude:
+  - BUILDS
+  - README.md
+  - "*.sh"

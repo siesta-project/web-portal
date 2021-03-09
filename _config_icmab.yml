@@ -16,4 +16,7 @@ baseurl: "/leem/siesta"
 #
 material_baseurl: "https://siesta-project.org/SIESTA_MATERIAL"
 
-
+exclude:
+  - BUILDS
+  - README.md
+  - "*.sh"
