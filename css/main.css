@@ -46,3 +46,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+#steering {
+    font-size: 0.833em;
+}

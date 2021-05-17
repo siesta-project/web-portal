@@ -29,14 +29,14 @@ title: The Team
 </table><!--table width='100%' border='0' frame=box rules=none cellspacing=0 -->
 
 {% for member in site.data.steering %}
- <table width='100%' border='2px' rules=none cellspacing=0 >
+ <table width='100%' border='2px' rules=none cellspacing=0 id=steering>
   <tr>
     <td class='contentheading'> {{member.name}}</td>
     <td rowspan="5" width='200'>  <img border='0'
     src='{{ site.baseurl }}{{ member.picture }}'> </td>
   </tr>
   <tr>
-    <TD><strong>Institution:</strong>{{member.institution}} </TD>
+    <TD><strong>Institution:</strong> {{member.institution}}</TD>
   </tr>
   <tr>
     <TD><strong>Web:</strong> <a href="{{member.web}}" target='_blank'>{{member.web}}</a></TD>
