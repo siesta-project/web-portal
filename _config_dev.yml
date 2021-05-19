@@ -20,3 +20,8 @@ exclude:
   - BUILDS
   - README.md
   - "*.sh"
+
+collections:
+    events:
+       output: true
+       permalink: :collection/:path/
