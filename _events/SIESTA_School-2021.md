@@ -105,6 +105,6 @@ the [MaX Centre of Excellence](http://www.max-centre.eu).
 
 ### References
 
-[1] José M Soler, Emilio Artacho, Julian D Gale, Alberto García, Javier Junquera, Pablo Ordejón, Daniel Sánchez-Portal: "The SIESTA method for ab initio order-N materials simulation", [Journal of Physics: Condensed Matter 14 (11), 2745-2779 (2002)](https://doi.org/10.1088/0953-8984/14/11/302).
+[1] José M Soler, Emilio Artacho, Julian D Gale, Alberto García, Javier Junquera, Pablo Ordejón, Daniel Sánchez-Portal: ["The SIESTA method for ab initio order-N materials simulation"](https://doi.org/10.1088/0953-8984/14/11/302), Journal of Physics: Condensed Matter 14 (11), 2745-2779 (2002).
 
-[2] Alberto García, Nick Papior, Arsalan Akhtar, Emilio Artacho, Volker Blum, Emanuele Bosoni, Pedro Brandimarte, et al: "Siesta: Recent Developments and Applications", [Journal of Chemical Physics 152 (20), 204108 (2020)](https://doi.org/10.1063/5.0005077).
+[2] Alberto García, Nick Papior, Arsalan Akhtar, Emilio Artacho, Volker Blum, Emanuele Bosoni, Pedro Brandimarte, et al: ["Siesta: Recent Developments and Applications"](https://doi.org/10.1063/5.0005077), Journal of Chemical Physics 152 (20), 204108 (2020).
