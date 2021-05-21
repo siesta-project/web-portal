@@ -7,3 +7,7 @@ past: false
 ---
 # {{ page.title }}
 ## CECAM School, {{ page.dates }} (online)
+
+[School website (CECAM)](https://www.cecam.org/workshop-details/4/)
+
+[Recorded lectures (Youtube)](https://www.youtube.com/playlist?list=PLwM2jMcWDGDAMkCAmGOi19Pe8rL0-CJtU)
