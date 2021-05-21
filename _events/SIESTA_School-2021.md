@@ -69,7 +69,7 @@ registration forms**:
   the [CECAM school web page](https://www.cecam.org/workshop-details/5).
 
 - Second, they need to submit the online form at
-  [https://forms.office.com/r/BQYpMkku4V](https://forms.office.com/r/BQYpMkku4V)
+  <https://forms.office.com/r/BQYpMkku4V>
   using the same email address that they provided to CECAM.
 
 Apart from basic identification and affiliation data,
@@ -97,6 +97,10 @@ access to the materials starting on the 21st June.
 * Pablo Ordejón (ICN2, Spain)
 * Miguel Pruneda (ICN2, Spain)
 * Zeila Zanolli (Utrecht University, Netherlands)
+
+### Contact
+
+Queries about the school should be addressed to [school-2021@siesta-project.org](mailto:school-2021@siesta-project.org?subject=[SIESTA School 2021]).
 
 ### Sponsors
 
