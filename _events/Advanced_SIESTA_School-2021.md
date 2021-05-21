@@ -6,7 +6,7 @@ eventID: 202105
 past: false
 ---
 # {{ page.title }}
-## CECAM School, {{ page.dates }} (online)
+## CECAM Flagship School, {{ page.dates }} (online)
 
 [School website (CECAM)](https://www.cecam.org/workshop-details/4/)
 
