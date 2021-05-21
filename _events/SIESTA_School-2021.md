@@ -49,7 +49,7 @@ The materials for the school will consist of:
 
 ### Program
 
-The live sessions of the school will take place from 09:30 to 12:30 CEST (track
+The live sessions of the school will take place from 09:30 to 12:30 CEST (Track
 A) and from 16:00 to 19:00 CEST (Track B), with breaks.
 It is expected that two modules will be covered in each session.
 
@@ -93,8 +93,8 @@ access to the materials starting on the 21st June.
 * Emanuele Bosoni (ICMAB-CSIC, Spain)
 * Antonio Cammarata (Czech Technical University in Prague, Czech Republic)
 * José Mª Escartín (ICN2, Spain)
-* Alberto Garcia (ICMAB-CSIC, Spain)
-* Pablo Ordejon (ICN2, Spain)
+* Alberto García (ICMAB-CSIC, Spain)
+* Pablo Ordejón (ICN2, Spain)
 * Miguel Pruneda (ICN2, Spain)
 * Zeila Zanolli (Utrecht University, Netherlands)
 
