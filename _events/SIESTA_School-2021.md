@@ -39,7 +39,8 @@ and to facilitate discussions between school students and tutors.
 ### Course materials
 
 The materials for the school will consist of:
- - Pre-recorded video lectures covering the necessary theoretical background
+ - Pre-recorded video [lectures](Lectures.html)
+   covering the necessary theoretical background
    and/or how-tos for specific features.
  - An online repository of documentation and how-to guides.
  - A virtual machine or container, based on the
