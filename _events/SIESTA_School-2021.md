@@ -39,7 +39,8 @@ and to facilitate discussions between school students and tutors.
 ### Course materials
 
 The materials for the school will consist of:
- - Pre-recorded video lectures covering the necessary theoretical background
+ - Pre-recorded video [lectures](Lectures.html)
+   covering the necessary theoretical background
    and/or how-tos for specific features.
  - An online repository of documentation and how-to guides.
  - A virtual machine or container, based on the
@@ -69,7 +70,7 @@ registration forms**:
   the [CECAM school web page](https://www.cecam.org/workshop-details/5).
 
 - Second, they need to submit the online form at
-  [https://forms.office.com/r/BQYpMkku4V](https://forms.office.com/r/BQYpMkku4V)
+  <https://forms.office.com/r/BQYpMkku4V>
   using the same email address that they provided to CECAM.
 
 Apart from basic identification and affiliation data,
@@ -97,6 +98,10 @@ access to the materials starting on the 21st June.
 * Pablo Ordejón (ICN2, Spain)
 * Miguel Pruneda (ICN2, Spain)
 * Zeila Zanolli (Utrecht University, Netherlands)
+
+### Contact
+
+Queries about the school should be addressed to [school-2021@siesta-project.org](mailto:school-2021@siesta-project.org?subject=[SIESTA School 2021]).
 
 ### Sponsors
 
