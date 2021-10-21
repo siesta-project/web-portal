@@ -38,13 +38,17 @@ and to facilitate discussions between school students and tutors.
 
 ### Course materials
 
-The materials for the school will consist of:
+The materials for the school will be:
  - Pre-recorded video [lectures](Lectures.html)
    covering the necessary theoretical background
    and/or how-tos for specific features.
- - An online repository of documentation and how-to guides.
- - A virtual machine or container, based on the
-   [Quantum Mobile](https://quantum-mobile.readthedocs.io/), packaged
+ - The [Siesta Documentation](https://docs.siesta-project.org/projects/siesta/) site,
+   which contains the repository of
+   [SIESTA tutorials](https://docs.siesta-project.org/projects/siesta/tutorials/)
+   (from which the school tutorials will be selected) and additional relevant documentation.
+ - The
+   [Siesta Mobile virtual machine (v0.2)](https://drive.google.com/drive/folders/14V50YRuJfW1jxdWkQzZPnTx0TIa10ftX), based on the
+   [Quantum Mobile](https://quantum-mobile.readthedocs.io/) and packaged
    with the necessary codes and supporting school files, for the hands-on
    exercises.
 
@@ -60,6 +64,9 @@ level topics will be able to work on the relevant modules throughout the
 school. More advanced students will be able to work on their own selection of
 topics (although real-time support to specific topics might be limited to
 specific sessions of the school).
+
+UPDATE: You may find detailed information on the planned sessions and tutorials
+[here](Sessions.html).
 
 ### Registration
 
