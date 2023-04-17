@@ -42,7 +42,8 @@ The materials for the school will consist of:
  - Pre-recorded video [lectures](Lectures.html)
    covering the necessary theoretical background
    and/or how-tos for specific features.
- - An online repository of documentation and how-to guides.
+ - An [online repository](https://docs.siesta-project.org/projects/siesta/en/school-2021/)
+   of documentation and how-to guides.
  - A virtual machine or container, based on the
    [Quantum Mobile](https://quantum-mobile.readthedocs.io/), packaged
    with the necessary codes and supporting school files, for the hands-on
