@@ -43,9 +43,10 @@ The materials for the school will consist of:
    covering the necessary theoretical background
    and/or how-tos for specific features.
  - An [online repository](https://docs.siesta-project.org/projects/siesta/en/school-2021/)
-   of documentation and how-to guides.
- - A virtual machine or container, based on the
-   [Quantum Mobile](https://quantum-mobile.readthedocs.io/), packaged
+   of tutorials and how-to guides.
+ - The [Siesta Mobile virtual machine (v0.2)](https://drive.google.com/drive/folders/14V50YRuJfW1jxdWkQzZPnTx0TIa10ftX),
+   based on the
+   [Quantum Mobile](https://quantum-mobile.readthedocs.io/) and packaged
    with the necessary codes and supporting school files, for the hands-on
    exercises.
 
