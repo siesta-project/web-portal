@@ -42,12 +42,13 @@ The materials for the school will be:
  - Pre-recorded video [lectures](Lectures.html)
    covering the necessary theoretical background
    and/or how-tos for specific features.
- - The [Siesta Documentation](https://docs.siesta-project.org/projects/siesta/) site,
+ - The [Siesta Project Documentation](https://docs.siesta-project.org/projects/siesta/en/school-2021/) site,
    which contains the repository of
-   [SIESTA tutorials](https://docs.siesta-project.org/projects/siesta/tutorials/)
-   (from which the school tutorials will be selected) and additional relevant documentation.
+   [SIESTA tutorials](https://docs.siesta-project.org/projects/siesta/en/school-2021/tutorials/)
+   (from which the school tutorials will be selected), how-to guides, and other relevant documentation.
  - The
-   [Siesta Mobile virtual machine (v0.2)](https://drive.google.com/drive/folders/14V50YRuJfW1jxdWkQzZPnTx0TIa10ftX), based on the
+   [Siesta Mobile virtual machine (v0.2)](https://drive.google.com/drive/folders/14V50YRuJfW1jxdWkQzZPnTx0TIa10ftX),
+   based on the
    [Quantum Mobile](https://quantum-mobile.readthedocs.io/) and packaged
    with the necessary codes and supporting school files, for the hands-on
    exercises.
