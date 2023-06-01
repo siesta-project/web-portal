@@ -24,7 +24,7 @@ and hands-on sessions where SIESTA experts will be available for discussion and 
 
 While autonomous work on the exercises will be possible throughout the day,
 lectures and most discussions will take place in the central hours of the day
-(Central European time).
+(Central European Summer Time).
 
 ### Course materials
 
@@ -33,7 +33,7 @@ The school will make extensive use of the
 which will be updated with new tutorials.
 
 The hands-on sessions will involve remotely executing pre-compiled versions of SIESTA on HPC
-systems located at the [Barcelona Supercomputing Centre](https://www.bsc.es/).  Indications on how to connect
+systems located at the [Barcelona Supercomputing Center](https://www.bsc.es/).  Indications on how to connect
 to BSC will be provided to accepted participants well in advance in order to ensure
 that they can install any tools they may require on their local computers.
 
@@ -69,13 +69,13 @@ The names of all the accepted participants will appear on the
 
 ### Contact
 
-Queries about the school should be addressed to [school-2023@siesta-project.org](mailto:school-2023@siesta-project.org?subject=[SIESTA School 2021]).
+Queries about the school should be addressed to [school-2023@siesta-project.org](mailto:school-2023@siesta-project.org?subject=[SIESTA School 2023]).
 
 ### Sponsors
 
 This school is supported by
-the [Barcelona Supercomputing Centre](https://www.bsc.es/) and
-[CECAM](https://www.cecam.org/) and
+the [Barcelona Supercomputing Centre](https://www.bsc.es/),
+[CECAM](https://www.cecam.org/), and
 the [MaX Centre of Excellence](http://www.max-centre.eu).
 
 ### References
