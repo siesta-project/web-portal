@@ -6,7 +6,7 @@ eventID: 202311
 past: false
 ---
 # {{ page.title }}
-## CECAM Flagship School, {{ page.dates }} (online)
+## {{ page.dates }} (online)
 
 Topics covered (may be subject to changes):
 
