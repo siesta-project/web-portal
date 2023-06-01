@@ -16,7 +16,7 @@ Topics covered (may be subject to changes):
 * Single contacts by removal of periodic images.
 * Modelling of extremely large systems with DFT precision.
 
-Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCyi1DHDq2RGnN-Vaigq5lTA/videos?view=0&sort=da&flow=grid)
+Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCyi1DHDq2RGnN-Vaigq5lTA/videos?view=0&sort=da&flow=grid).
 
 The schools material will be based on [this repository](https://github.com/zerothi/ts-tbt-sisl-tutorial).
 
