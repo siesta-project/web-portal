@@ -6,7 +6,7 @@ eventID: 202311
 past: false
 ---
 # {{ page.title }}
-## {{ page.dates }} (online)
+## Technical University of Denmark, {{ page.dates }}
 
 Topics covered (may be subject to changes):
 
