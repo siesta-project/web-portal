@@ -56,6 +56,15 @@ our acceptance decisions by email by the 8th September.
 The names of all the accepted participants will appear on the
 [participants tab](https://www.cecam.org/workshop-details/1240#participant_tab) of the CECAM website.
 
+### Further training
+
+This SIESTA school will include an introduction to the TranSIESTA functionality of SIESTA.
+After the school, the **TranSIESTA (+ TBtrans + sisl) School 2023**
+will be held at the Technical University of Denmark (DTU) in Kongens Lyngby, Denmark,
+between the 13th and 17th November 2023.
+The tutorial will be a continuation of prior successful workshops based on [https://github.com/zerothi/ts-tbt-sisl-tutorial](https://github.com/zerothi/ts-tbt-sisl-tutorial).
+Please check the [TranSIESTA School 2023](../TranSIESTA_School-2023) page for further information,
+including registration and a tentative program.
 
 ### Organisers
 
@@ -74,7 +83,7 @@ Queries about the school should be addressed to [school-2023@siesta-project.org]
 ### Sponsors
 
 This school is supported by
-the [Barcelona Supercomputing Centre](https://www.bsc.es/),
+the [Barcelona Supercomputing Center](https://www.bsc.es/),
 [CECAM](https://www.cecam.org/), and
 the [MaX Centre of Excellence](http://www.max-centre.eu).
 
