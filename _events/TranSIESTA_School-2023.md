@@ -51,7 +51,7 @@ Wednesday 15th:
 12:00-13:00 Lunch (sanchwich covered by fee)
 13:00-15:00 Theory 4: Thomas/Sofia
 15:00-15:30 Break
-15:30-17:00 Tutorial 5: hubbard
+15:30-17:00 Tutorial 5: Hubbard
 
 Thursday 16th:
 09:00-10:00 Tutorial 6: DFT -> TB -> Large scale tight-binding (Gaetano Calogero)
