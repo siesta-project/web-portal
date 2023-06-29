@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Modular linear- and cubic-scaling orbital minimization methods"
+title: "Modular implementation of linear- and cubic-scaling orbital minimization methods"
 date: 2023-04-26
 ---
 
