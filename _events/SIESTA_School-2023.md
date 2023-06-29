@@ -84,7 +84,7 @@ Queries about the school should be addressed to [school-2023@siesta-project.org]
 
 This school is supported by
 the [Barcelona Supercomputing Center](https://www.bsc.es/),
-[CECAM](https://www.cecam.org/), and
+[CECAM-ES](https://www.cecam.org/cecam-es), and
 the [MaX Centre of Excellence](http://www.max-centre.eu).
 
 ### References
