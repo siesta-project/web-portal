@@ -99,3 +99,6 @@ Tentative program:
 </table>
 
 Please sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
+
+Students may join the Siesta workshop before this for better understanding and a greater in-depth knowlegde
+of the Siesta method, see [here](https://siesta-project.github.io/web-portal/) for details.
