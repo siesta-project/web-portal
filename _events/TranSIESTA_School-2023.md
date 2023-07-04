@@ -41,7 +41,8 @@ Topics covered (may be subject to changes):
 * Single contacts by removal of periodic images.
 * Modelling of extremely large systems with DFT precision.
 
-It will cost 200 EUR to participate, paid in advance.
+It will cost ~200 EUR (1.500 DKK) to participate, paid in advance. This will cover lunches, coffee breaks and the conference dinner.
+One can sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
 
 Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCyi1DHDq2RGnN-Vaigq5lTA/videos?view=0&sort=da&flow=grid).
 
@@ -97,4 +98,4 @@ Tentative program:
 </tbody>
 </table>
 
-Final details will soon be up.
+Please sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
