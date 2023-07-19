@@ -100,5 +100,5 @@ Tentative program:
 
 Please sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
 
-Students may join the Siesta workshop before this for better understanding and a greater in-depth knowlegde
-of the Siesta method, see [here](https://siesta-project.github.io/web-portal/) for details.
+Students may join the SIESTA school before this for better understanding and a greater in-depth knowlegde
+of the SIESTA method, see [here](../SIESTA_School-2023) for details.
