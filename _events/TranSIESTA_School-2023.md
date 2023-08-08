@@ -44,13 +44,15 @@ Topics covered (may be subject to changes):
 It will cost ~200 EUR (1.500 DKK) to participate, paid in advance. This will cover lunches, coffee breaks and the conference dinner.
 One can sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
 
+
+### Course material
+
+The schools material is based on [this repository](https://github.com/zerothi/ts-tbt-sisl-tutorial).
+
 Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCyi1DHDq2RGnN-Vaigq5lTA/videos?view=0&sort=da&flow=grid).
 
-The schools material will be based on [this repository](https://github.com/zerothi/ts-tbt-sisl-tutorial).
 
-Please engage in sisl usage discussions on the [sisl Discord channel](https://discord.gg/5XnFXFdkv2).
-
-Tentative program:
+### Tentative program
 
 <table>
 
@@ -98,7 +100,20 @@ Tentative program:
 </tbody>
 </table>
 
+
+### Registration
+
 Please sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
+The cost of ~200 EUR is to be paid upon registration.
+
+
+### Preparation training
 
 Students may join the SIESTA school before this for better understanding and a greater in-depth knowlegde
 of the SIESTA method, see [here](../SIESTA_School-2023) for details.
+
+
+### Contact
+
+If questions arise, please do not hesitate to bring them up on the [sisl Discord channel](https://discord.gg/5XnFXFdkv2).
+We encourage users to stay around the community at that channel.
