@@ -79,16 +79,16 @@ Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCy
 <tr><td>10:00-10:30</td><td> Break</td></tr>
 <tr><td>10:30-12:00</td><td> Tutorial 4: Continuing tutorials</td></tr>
 <tr><td>12:00-13:00</td><td> Lunch (sanchwich covered by fee)</td></tr>
-<tr><td>13:00-15:00</td><td> Theory 4: Thomas/Sofia</td></tr>
+<tr><td>13:00-15:00</td><td> Theory 4: Thomas Frederiksen (DiPC, Spain)/Sofia Sanz (DTU)</td></tr>
 <tr><td>15:00-15:30</td><td> Break</td></tr>
 <tr><td>15:30-17:00</td><td> Tutorial 5: Hubbard</td></tr>
 
 <tr><th COLSPAN="2"> Thursday 16th November</th></tr>
-<tr><td>09:00-10:00</td><td>Tutorial 6: DFT -> TB -> Large scale tight-binding (Gaetano Calogero)</td></tr>
+<tr><td>09:00-10:00</td><td>Tutorial 6: DFT -> TB -> Large scale tight-binding (Gaetano Calogero, CNR-IMM, Italy)</td></tr>
 <tr><td>10:00-10:30</td><td>Break</td></tr>
 <tr><td>10:30-12:00</td><td>Tutorial 6: Continuation</td></tr>
 <tr><td>12:00-13:00</td><td>Lunch (sandwich covered by fee)</td></tr>
-<tr><td>13:00-15:00</td><td>Tutorial 7: Bilayer graphene + NPG (Xabier de Cerio)</td></tr>
+<tr><td>13:00-15:00</td><td>Tutorial 7: Bilayer graphene + NPG (Xabier de Cerio, DiPC, Spain)</td></tr>
 <tr><td>15:00-15:30</td><td>Break</td></tr>
 <tr><td>15:30-17:00</td><td>Tutorial 7: Continuation</td></tr>
 
