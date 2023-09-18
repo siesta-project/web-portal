@@ -21,10 +21,9 @@ post-processing tools will also be presented.
 
 The School will consist of lectures from senior SIESTA developers
 and hands-on sessions where SIESTA experts will be available for discussion and guidance.
+These sessions will take place between 12:30 CEST and 17:30 CEST.
 
-While autonomous work on the exercises will be possible throughout the day,
-lectures and most discussions will take place in the central hours of the day
-(Central European Summer Time).
+Autonomous work on the exercises will be possible throughout the day.
 
 ### Course materials
 
