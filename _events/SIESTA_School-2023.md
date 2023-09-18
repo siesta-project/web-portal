@@ -71,6 +71,7 @@ including registration and a tentative program.
 * Emilio Artacho (Nanogune, Spain; and University of Cambridge, UK)
 * Antonio Cammarata (Czech Technical University in Prague, Czech Republic)
 * José Mª Escartín (ICN2, Spain)
+* Julio Gutiérrez (BSC, Spain)
 * Nick Papior (DTU, Denmark)
 * Federico Pedron (ICN2, Spain)
 * Miguel Pruneda (CSIC, Spain)
