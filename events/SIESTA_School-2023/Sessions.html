@@ -18,6 +18,19 @@ title: "SIESTA School 2021: Sessions unfolded"
     padding:7px;
     text-align:left;
   }
+  .general {
+    background-color: #d3aef4;
+  }
+  .lecture {
+    background-color: #9acbff;
+  }
+  .practical {
+    background-color: #fac864;
+  }
+  .break {
+    background-color: #d0d0d0;
+  }
+<-    background-color: #ff8f8c; ->
   th.borderless {
     border-top:0px;
     border-left:0px;
@@ -136,54 +149,58 @@ We strongly recommend that you perform daily backups of your BSC home, since the
 <h2> Tentative programme</h2>
 
 <p>
-All times are CEST (UTC+2).
+All times are CEST (UTC+2). Color codes:
+<span class="lecture">&nbsp;lecture&nbsp;</span>,
+<span class="practical">&nbsp;practical (usually includes a presentation/short lecture)&nbsp;</span>,
+<span class="break">&nbsp;break&nbsp;</span>,
+<span class="general">&nbsp;other&nbsp;</span>.
 </p>
 
 <table>
 
 <tbody>
 <tr><th COLSPAN="2"> Monday 2nd October</th></tr>
-<tr><td>12:30-12:45</td><td> Introductory remarks</td></tr>
-<tr><td>12:45-13:30</td><td> General Siesta Theory (Prof. José Soler, UAM)</td></tr>
-<tr><td>13:30-13:55</td><td> Pseudopotentials (Dr. Alberto García, ICMAB-CSIC)</td></tr>
-<tr><td>13:55-14:10</td><td> Break</td></tr>
-<tr><td>14:10-16:00</td><td> A first contact with SIESTA: inputs, execution and outputs (Dr. Federico Pedron, ICN2)</td></tr>
-<tr><td>16:00-16:15</td><td> Break</td></tr>
-<tr><td>16:15-17:15</td><td> Basis sets in SIESTA (Dr. Miguel Pruneda, CINN-CSIC)</td></tr>
-<tr><td>17:15-17:30</td><td> Discussion and feedback</td></tr>
+<tr class="general"  ><td>12:30–12:45</td><td> Introductory remarks</td></tr>
+<tr class="lecture"  ><td>12:45–13:30</td><td> General Siesta Theory (Prof. José Soler, UAM)</td></tr>
+<tr class="lecture"  ><td>13:30–13:55</td><td> Pseudopotentials (Dr. Alberto García, ICMAB-CSIC)</td></tr>
+<tr class="break"    ><td>13:55–14:10</td><td> Break</td></tr>
+<tr class="practical"><td>14:10–16:00</td><td> A first contact with SIESTA: inputs, execution and outputs (Dr. Federico Pedron, ICN2)</td></tr>
+<tr class="break"    ><td>16:00–16:15</td><td> Break</td></tr>
+<tr class="lecture"  ><td>16:15–17:15</td><td> Basis sets in SIESTA (Dr. Miguel Pruneda, CINN-CSIC)</td></tr>
+<tr class="general"  ><td>17:15–17:30</td><td> Discussion and feedback</td></tr>
 
 
 <tr><th COLSPAN="2"> Tuesday 3rd October</th></tr>
-<tr><td>12:30-14:30</td><td> Basis set optimization (Dr. Federico Pedron, ICN2)</td></tr>
-<tr><td>14:30-14:45</td><td> Break</td></tr>
-<tr><td>14:45-16:15</td><td> K-points, mesh, and SCF convergence (Dr. Catalina Coll, ICN2)</td></tr>
-<tr><td>16:15-16:30</td><td> Break</td></tr>
-<tr><td>16:30-17:30</td><td> Analysis I: Plotting data on grid. Mulliken and Voronoi charges. (Dr. Miguel Pruneda, CINN-CSIC)</td></tr>
+<tr class="practical"><td>12:30–14:30</td><td> Basis set optimization (Dr. Federico Pedron, ICN2)</td></tr>
+<tr class="break"    ><td>14:30–14:45</td><td> Break</td></tr>
+<tr class="practical"><td>14:45–16:15</td><td> K-points, mesh, and SCF convergence (Dr. Catalina Coll, ICN2)</td></tr>
+<tr class="break"    ><td>16:15–16:30</td><td> Break</td></tr>
+<tr class="practical"><td>16:30–17:30</td><td> Analysis I: Plotting data on grid. Mulliken and Voronoi charges. (Dr. Miguel Pruneda, CINN-CSIC)</td></tr>
 
 <tr><th COLSPAN="2"> Wednesday 4th October</th></tr>
-<tr><td>12:30-13:30</td><td> Geometry optimization (Dr. Ernane de Freitas, ICN2)</td></tr>
-<tr><td>13:30-14:30</td><td> Molecular dynamics (Dr. Ernane de Freitas, ICN2)</td></tr>
-<tr><td>14:30-14:45</td><td> Break</td></tr>
-<tr><td>14:45-16:15</td><td> Phonons (Dr. Roberta Farris, ICN2)</td></tr>
-<tr><td>16:15-16:30</td><td> Break</td></tr>
-<tr><td>16:30-17:30</td><td> Analysis II: visualization of dynamics and vibrational modes (Dr. Roberta Farris, ICN2)</td></tr>
+<tr class="practical"><td>12:30–13:30</td><td> Geometry optimization (Dr. Ernane de Freitas, ICN2)</td></tr>
+<tr class="practical"><td>13:30–14:30</td><td> Molecular dynamics (Dr. Ernane de Freitas, ICN2)</td></tr>
+<tr class="break"    ><td>14:30–14:45</td><td> Break</td></tr>
+<tr class="practical"><td>14:45–16:15</td><td> Phonons (Dr. Roberta Farris, ICN2)</td></tr>
+<tr class="break"    ><td>16:15–16:30</td><td> Break</td></tr>
+<tr class="practical"><td>16:30–17:30</td><td> Analysis II: visualization of dynamics and vibrational modes (Dr. Roberta Farris, ICN2)</td></tr>
 
 <tr><th COLSPAN="2"> Thursday 5th October</th></tr>
-<tr><td>12:30-13:30</td><td>Polarization and Born-effective charges (Prof. Javier Junquera, Universidad de Cantabria)</td></tr>
-<tr><td>13:30-14:30</td><td>Wannierization (Prof. Javier Junquera, Universidad de Cantabria)</td></tr>
-<tr><td>14:30-14:45</td><td>Break</td></tr>
-<tr><td>14:45-15:15</td><td>Introduction to SISL (Dr. Nils Wittemeier and Pol Febrer, ICN2)</td></tr>
-<tr><td>15:15-15:30</td><td>Break</td></tr>
-<tr><td>15:30-16:30</td><td>Spin. Spin-orbit couplings (Dr. Nils Wittemeier, ICN2)</td></tr>
-<tr><td>16:30-17:30</td><td>Analysis III: fatbands and spin texture (Dr. Nils Wittemeier, ICN2)</td></tr>
+<tr class="practical"><td>12:30–13:30</td><td>Polarization and Born-effective charges (Prof. Javier Junquera, Universidad de Cantabria)</td></tr>
+<tr class="practical"><td>13:30–14:30</td><td>Wannierization (Prof. Javier Junquera, Universidad de Cantabria)</td></tr>
+<tr class="break"    ><td>14:30–14:45</td><td>Break</td></tr>
+<tr class="practical"><td>14:45–15:15</td><td>Introduction to SISL (Dr. Nils Wittemeier and Pol Febrer, ICN2)</td></tr>
+<tr class="break"    ><td>15:15–15:30</td><td>Break</td></tr>
+<tr class="practical"><td>15:30–16:30</td><td>Spin. Spin-orbit couplings (Dr. Nils Wittemeier, ICN2)</td></tr>
+<tr class="practical"><td>16:30–17:30</td><td>Analysis III: fatbands and spin texture (Dr. Nils Wittemeier, ICN2)</td></tr>
 
 <tr><th COLSPAN="2"> Friday 6th October</th></tr>
-<tr><td>12:30-13:00</td><td>Overview of SIESTA solvers (Dr. Alberto García, ICMAB-CSIC)</td></tr>
-<tr><td>13:00-13:15</td><td>Break</td></tr>
-<tr><td>13:15-15:45</td><td>TranSIESTA (Pol Febrer, ICN2)</td></tr>
-<tr><td>15:45-16:00</td><td>Break</td></tr>
-<tr><td>16:00-16:30</td><td>Building, deployment and execution (Dr. José Mª Escartín, ICN2)</td></tr>
-<tr><td>16:30-17:00</td><td>Final discussion and feedback</td></tr>
+<tr class="lecture"  ><td>12:30–13:00</td><td>Overview of SIESTA solvers (Dr. Alberto García, ICMAB-CSIC)</td></tr>
+<tr class="break"    ><td>13:00–13:15</td><td>Break</td></tr>
+<tr class="practical"><td>13:15–15:45</td><td>TranSIESTA (Pol Febrer, ICN2)</td></tr>
+<tr class="break"    ><td>15:45–16:00</td><td>Break</td></tr>
+<tr class="lecture"  ><td>16:00–16:30</td><td>Building, deployment and execution (Dr. José Mª Escartín, ICN2)</td></tr>
+<tr class="general"  ><td>16:30–17:00</td><td>Final discussion and feedback</td></tr>
 </tbody>
 </table>
 
