@@ -25,6 +25,9 @@ These sessions will take place between 12:30 CEST and 17:30 CEST.
 
 Autonomous work on the exercises will be possible throughout the day.
 
+**UPDATE: You may find detailed information on the planned sessions and tutorials
+[here](Sessions.html).**
+
 ### Course materials
 
 The school will make extensive use of the
