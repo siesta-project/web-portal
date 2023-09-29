@@ -44,13 +44,43 @@ _MareNostrum login nodes will result in ACCOUNT BANNING, but they can_
 _be done in reserved nodes (see below)._
 
 
+## Submitting a job
+
+Calculations in MareNostrum need to be submitted to the queing system. For that purpose,
+we will be using a job script, provided in PATH/TO/SCRIPT. Copy this script to each
+test folder in which you intend to run siesta.
+
+This is an example of the contents of said script:
+
+  #!/bin/bash
+  #SBATCH -J tutorialXX
+  #SBATCH -n 4
+  #SBATCH -t 0:30:00
+  #SBATCH -o %x-%j.out
+  #SBATCH -e %x-%j.err
+  #SBATCH -D .
+
+  module load bsc cmake/3.23.2 ninja/1.10.0
+  module load intel/2021.4 mkl/2021.4 impi/2018.4
+  module load netcdf/4.4.1.1 fftw/3.3.6
+  module load siesta/VERSION_TBD
+  export LIBRARY_PATH=$LD_LIBRARY_PATH:$LIBRARY_PATH
+  export OMP_NUM_THREADS=1
+
+  srun -n 4 siesta < input.fdf > output.out
+
+Ignore the export and module lines. The "-n" options in #SBATCH and srun indicate the
+amount of CPUs used. Be sure to replace "input" and "output" names accordingly, and the
+name of the job specified by "#SBATCH -J".
+
 ## Making reservations and loading the school modules
 
+For visualizations, you might need to make a node reservation instead of a job script.
 When logged into MareNostrum, use the following command to make a reservation:
 
-    salloc -t 4:00:00 -n 1 -c 4 --reservation=SIESTA-DAY -J siestaschool
+    salloc -t 4:00:00 -n 1 -c 1 --reservation=SIESTA-DAY -J siestaschool
 
-This will make a 4-hour long reservation (-t option), with 1 task (-n) that uses 4 CPUs (-c).
+This will make a 4-hour long reservation (-t option), with 1 task (-n) that uses 1 CPU (-c).
 The -J option is just an identifier that you can change at will. From 21.00 to 8.00 CEST,
 be sure to change SIESTA-DAY by SIESTA-NIGHT (see further below a decription on these reservations).
 
@@ -69,6 +99,7 @@ If you logout or otherwise lose conntection to the node, you must reload the mod
 For more information on running jobs, visit and read
 [the MareNostrum guides](https://www.bsc.es/supportkc/docs/MareNostrum4/intro).
 
+** We encourage you to run visualizations locally on your home PC. **
 
 ## Directory with tutorials
 For every practical there is a folder in the shared directory
@@ -93,9 +124,7 @@ You can backup your files in case you want to keep them after the school is done
 do so in at least two different ways:
 
 * Via scp/rsync (Mac, Linux, Windows with WSL/Cygwin)
-scp -r USERNAME@dt01.bsc.es:/path/to/files
-
-rsync -avP USERNAME@dt01.bsc.es:/path/to/files
+scp -rp USERNAME@dt01.bsc.es:/path/to/files
 
 (you can use any scp/rsync options freely, this is just an example)
 
@@ -118,7 +147,14 @@ be used during the school:
 * [vmd]( https://www.ks.uiuc.edu/Research/vmd/ )
 * Python with matplotlib
 
-If you feel brave and want to try different stuff, some tutors have strong feelings for [ovito](https://www.ovito.org/about/)
+If you feel brave and want to try different stuff, some tutors have strong feelings for
+[ovito](https://www.ovito.org/about/).
+
+If you are feeling a lot braver than that and want to try your own SIESTA compilation, 
+have a look at
+[this SIESTA compilation how-to](https://docs.siesta-project.org/projects/siesta/en/latest/how-to/installation/build-manually.html).
+Be sure to have all dependencies beforehand. Note that we will not be answering questions
+regarding compilation or other installations during the school.
 
 
 ## Additional info on SLURM Reservations
