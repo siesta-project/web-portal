@@ -47,8 +47,8 @@ _be done in reserved nodes (see below)._
 ## Submitting a job
 
 Calculations in MareNostrum need to be submitted to the queing system. For that purpose,
-we will be using a job script, provided in PATH/TO/SCRIPT. Copy this script to each
-test folder in which you intend to run siesta.
+we will be using a job script, provided in /gpfs/projects/nct00/nct00003/RUN/runmn.sh.
+Copy this script to each test folder in which you intend to run siesta.
 
 This is an example of the contents of said script:
 
@@ -60,18 +60,27 @@ This is an example of the contents of said script:
   #SBATCH -e %x-%j.err
   #SBATCH -D .
 
-  module load bsc cmake/3.23.2 ninja/1.10.0
-  module load intel/2021.4 mkl/2021.4 impi/2018.4
-  module load netcdf/4.4.1.1 fftw/3.3.6
-  module load siesta/VERSION_TBD
-  export LIBRARY_PATH=$LD_LIBRARY_PATH:$LIBRARY_PATH
-  export OMP_NUM_THREADS=1
+  source /gpfs/projects/nct00/nct00003/siestarc.sh
 
   srun -n 4 siesta < input.fdf > output.out
 
 Ignore the export and module lines. The "-n" options in #SBATCH and srun indicate the
 amount of CPUs used. Be sure to replace "input" and "output" names accordingly, and the
 name of the job specified by "#SBATCH -J".
+
+
+You can submit this job script by doing:
+
+  sbatch runmn.sh
+
+To make use of our special reservation for the school, run sbatch with the reservation option:
+
+  sbatch runmn.sh --reservation=SIESTA-DAY
+
+Or:
+
+  sbatch runmn.sh --reservation=SIESTA-NIGHT
+
 
 ## Making reservations and loading the school modules
 
@@ -91,7 +100,7 @@ Once inside this interactive session, you will be able to run Siesta and do othe
 calculations. Be sure to load the Siesta school module before doing anything by
 doing:
 
-    module load siesta/VERSION_TBD
+    /gpfs/projects/nct00/nct00003/siestarc.sh
 
 Beware that the module will stay active as long as your interactive session is active.
 If you logout or otherwise lose conntection to the node, you must reload the module.
@@ -103,12 +112,12 @@ For more information on running jobs, visit and read
 
 ## Directory with tutorials
 For every practical there is a folder in the shared directory
-__TBD:__ `/path/to/dir` __:TBD__
+__TBD:__ `/gpfs/projects/nct00/nct00003/TUTORIALS/` __:TBD__
 that contains all the files you will need for said practical.
 At the start of every tutorial, please copy the required files from that shared directory
 to your home __TBD:__
 
-    cp -r /path/to/dir $HOME/
+    cp -r /gpfs/projects/nct00/nct00003/TUTORIALS/day1 $HOME/
 
 __:TBD__ Please do NOT copy these files before the start of the practical, in case they are updated
 shortly before the practical starts.
@@ -124,12 +133,14 @@ You can backup your files in case you want to keep them after the school is done
 do so in at least two different ways:
 
 * Via scp/rsync (Mac, Linux, Windows with WSL/Cygwin)
+
 scp -rp USERNAME@dt01.bsc.es:/path/to/files
 
 (you can use any scp/rsync options freely, this is just an example)
 
 
 * Via sshfs (all platforms)
+
 This is available for all platforms, but might be specially useful
 for those running exclusively windows.
 
