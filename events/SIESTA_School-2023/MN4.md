@@ -47,7 +47,7 @@ _be done in reserved nodes (see below)._
 ## Submitting a job
 
 Calculations in MareNostrum need to be submitted to the queing system. For that purpose,
-we will be using a job script, provided in /gpfs/projects/nct00/nct00003/RUN/runmn.sh.
+we will be using a job script, provided in /gpfs/projects/nct00/nct00003/SCRIPTS/runmn.sh.
 Copy this script to each test folder in which you intend to run siesta.
 
 This is an example of the contents of said script:
@@ -115,17 +115,15 @@ For every practical there is a folder in the shared directory
 __TBD:__ `/gpfs/projects/nct00/nct00003/TUTORIALS/` __:TBD__
 that contains all the files you will need for said practical.
 At the start of every tutorial, please copy the required files from that shared directory
-to your home __TBD:__
+to your scratch folder __TBD:__
 
-    cp -r /gpfs/projects/nct00/nct00003/TUTORIALS/day1 $HOME/
+    cd /gpfs/scratch/nct01/USERNAME
+    cp -r /gpfs/projects/nct00/nct00003/TUTORIALS/day1 .
 
 __:TBD__ Please do NOT copy these files before the start of the practical, in case they are updated
 shortly before the practical starts.
 
-We encourage you to run the tutorials in the scratch folder, since home space is limited:
-
-    cd /gpfs/scratch/nct01/USERNAME
-
+Note: We will be running everything in the scratch folder, since disk space is limited in $HOME.
 
 ## Backing up files
 
