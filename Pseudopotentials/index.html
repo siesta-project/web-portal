@@ -4,36 +4,44 @@ title: Pseudopotentials
 ---
 <html>
 <body>
-<h3>Pseudopotentials for SIESTA</h3>
+<h2>Pseudopotentials for SIESTA</h2>
 
 <p>SIESTA uses pseudopotentials to represent the electron-ion
 interaction (as do most plane-wave codes and in contrast to so-called
 "all-electron" programs). In particular, the pseudopotentials are of
 the "norm-conserving" kind.</p>
 
-<p>The released versions of SIESTA use pseudopotential files in the
+<h3>Pseudopotentials in the PSF format</h3>
+
+<p>Versions of SIESTA before 5.0 use pseudopotential files in the
   'Froyen' (psf) format. These pseudopotentials can be generated and
-  tested by a number of programs:</p>
+  tested by a number of programs, which include:</p>
 
 <ul>
-<li><p>Until recently the SIESTA distribution included the ATOM program,
-but it is no longer bundled due to licensing issues.  If you are an
+  <li><p>Until recently the SIESTA distribution included the
+      <a href="https://docs.siesta-project.org/projects/atom/en/latest/">ATOM program</a>,
+but it is no longer bundled.  If you are an
 academic user, you can download it
 from <a href="{{site.material_baseurl}}/Pseudos/atom_licence.html">here</a>.</p>
 
-<li><p>For non-academic users, or for those looking for more
-pseudopotential options, we recommend a visit to
-the <a href="http://www.nnin.org/search/node/pseudopotential">Virtual
-Vault for Pseudopotentials</a>. Use one of the pseudopotential
-generators listed as providing psf output compatible with Siesta (such as
-APE) and follow the proper procedures for testing.</p>
+<li><p> The Atomic Pseudopotential Engine (APE) is a computer package
+designed to generate and test norm-conserving pseudopotentials within
+Density Functional Theory. The generated pseudopotentials can be
+either non-relativistic, scalar relativistic or fully relativistic and
+can explicitly include semi-core states. A wide range of
+exchange-correlation functionals is included through Libxc.</p>
 
 </ul>
 
-<p>Remember that all pseudopotentials should be thoroughly tested
-before using them. (See the standard literature on
-pseudopotentials and the user manuals for ATOM and other generation
-codes for more information on testing).</p>
+<p>We used to provide a database of pseudopotentials in psf format,
+  but we no longer do, as their quality was uneven. A database of
+  pseudopotentials is still available at
+  the <a href="https://nninc.cnf.cornell.edu/">Virtual Vault for
+  Pseudopotentials</a> site, but please remember that all
+  pseudopotentials should be thoroughly tested before use. (See
+  the standard literature on pseudopotentials and the user manuals for
+  ATOM and other generation codes for more information on
+  testing).</p>
 
 
 <h3>Curated pseudopotentials in the PSML format</h3>
@@ -47,10 +55,11 @@ codes for more information on testing).</p>
   available in a web-based database in several formats.
 </p>
 <p>Users of SIESTA willing to try these
-  pseudopotentials can use the
+  pseudopotentials can use the <a href="https://gitlab.com/siesta-project/siesta/-/releases/5.0.0-beta1">
+    new 5.0 (beta) version</a> or the
   <a href="https://gitlab.com/siesta-project/siesta/tree/master">
     development version of
-    SIESTA</a>,  which has support for the
+    SIESTA</a>,  which have support for the
   new <a href="https://esl.cecam.org/data/psml/">PSML format</a>.
   </p>
   

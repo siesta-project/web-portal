@@ -12,7 +12,7 @@ markdown: kramdown
 canonical_baseurl: "https://siesta-project.org/siesta"
 #
 #baseurl: "/web-portal"
-baseurl: "/Users/ag/W/Siesta/WEBS/web-portal/_site"
+baseurl: "/Users/albertog/W/Siesta/WEBS/web-portal/_site"
 #
 material_baseurl: "https://siesta.icmab.es/SIESTA_MATERIAL"
 
