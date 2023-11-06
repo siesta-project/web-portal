@@ -37,9 +37,9 @@ Topics covered (may be subject to changes):
 
 * Usage of TranSIESTA/TBtrans and sisl.
 * Correlated systems and the mean field Hubbard model.
-* Inelastic transport.
 * Single contacts by removal of periodic images.
 * Modelling of extremely large systems with DFT precision.
+* Bilayer graphene structures and tight-binding models.
 
 It will cost ~200 EUR (1.500 DKK) to participate, paid in advance. This will cover lunches, coffee breaks and the conference dinner.
 One can sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
@@ -51,6 +51,8 @@ The schools material is based on [this repository](https://github.com/zerothi/ts
 
 Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCyi1DHDq2RGnN-Vaigq5lTA/videos?view=0&sort=da&flow=grid).
 
+The lectures will be recorded and uploaded for future retrieval. All material will be released *after* the workshop has ended.
+It will be released [here](https://github.com/zerothi/ts-tbt-sisl-tutorial/releases/tag/v2023.11) (link not working until after).
 
 ### Tentative program
 
@@ -58,7 +60,7 @@ Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCy
 
 <tbody>
 <tr><th COLSPAN="2"> Monday 13th November</th></tr>
-<tr><td>12:00-13:00</td><td>Registration + lunch (bring your own lunch!)</td></tr>
+<tr><td>12:00-13:00</td><td>Registration + lunch</td></tr>
 <tr><td>13:00-15:00</td><td> Theory 1: Non-equilibrium Green function theory</td></tr>
 <tr><td>15:00-15:30</td><td> Coffee and cake</td></tr>
 <tr><td>15:30-17:00</td><td> Tutorial 1: Tight-binding and TBtrans</td></tr>
@@ -71,7 +73,7 @@ Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCy
 <tr><td>13:00-15:00</td><td> Tutorial 2: Tight-binding and TBtrans</td></tr>
 <tr><td>15:00-15:30</td><td> Break</td></tr>
 <tr><td>15:30-17:00</td><td> Tutorial 3: Tight-binding and TBtrans N-electrode</td></tr>
-<tr><td>18:00</td><td> Conference dinner (likely in Lyngby, covered by fee)</td></tr>
+<tr><td>20:00</td><td> Conference dinner in Lyngby at [Madklubben](https://maps.app.goo.gl/mRdsoxXrAxYS4MbZ7) (covered by fee)</td></tr>
 
 <tr><th COLSPAN="2"> Wednesday 15th November</th></tr>
 <tr><td>09:00-09:30</td><td> Theory 3: NEGF for N-electrode calculations</td></tr>
@@ -79,21 +81,21 @@ Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCy
 <tr><td>10:00-10:30</td><td> Break</td></tr>
 <tr><td>10:30-12:00</td><td> Tutorial 4: Continuing tutorials</td></tr>
 <tr><td>12:00-13:00</td><td> Lunch (sanchwich covered by fee)</td></tr>
-<tr><td>13:00-15:00</td><td> Theory 4: Thomas Frederiksen (DiPC, Spain)/Sofia Sanz (DTU)</td></tr>
+<tr><td>13:00-15:00</td><td> Theory 4 + Tutorial 5: Sofia Sanz (DTU)/Thomas Frederiksen (DiPC, Spain) Hubbard</td></tr>
 <tr><td>15:00-15:30</td><td> Break</td></tr>
-<tr><td>15:30-17:00</td><td> Tutorial 5: Hubbard</td></tr>
+<tr><td>15:30-17:00</td><td> Tutorial 6: Plotting real space quantities</td></tr>
 
 <tr><th COLSPAN="2"> Thursday 16th November</th></tr>
-<tr><td>09:00-10:00</td><td>Tutorial 6: DFT -> TB -> Large scale tight-binding (Gaetano Calogero, CNR-IMM, Italy)</td></tr>
+<tr><td>09:00-10:00</td><td>Tutorial 7: DFT -> TB -> Large scale tight-binding Gaetano Calogero, CNR-IMM, Italy/Isaac Alcon, ICN2, Spain</td></tr>
 <tr><td>10:00-10:30</td><td>Break</td></tr>
-<tr><td>10:30-12:00</td><td>Tutorial 6: Continuation</td></tr>
+<tr><td>10:30-12:00</td><td>Tutorial 7: Continuation</td></tr>
 <tr><td>12:00-13:00</td><td>Lunch (sandwich covered by fee)</td></tr>
-<tr><td>13:00-15:00</td><td>Tutorial 7: Bilayer graphene + NPG (Xabier de Cerio, DiPC, Spain)</td></tr>
+<tr><td>13:00-15:00</td><td>Tutorial 8: Bilayer graphene + NPG (Xabier de Cerio, DiPC, Spain)</td></tr>
 <tr><td>15:00-15:30</td><td>Break</td></tr>
-<tr><td>15:30-17:00</td><td>Tutorial 7: Continuation</td></tr>
+<tr><td>15:30-17:00</td><td>Tutorial 8: Continuation</td></tr>
 
 <tr><th COLSPAN="2"> Friday 17th November</th></tr>
-<tr><td>09:00-10:00</td><td>Tutorial 8: Real space self-energies</td></tr>
+<tr><td>09:00-10:00</td><td>Tutorial 9: Real space self-energies</td></tr>
 <tr><td>10:00-10:30</td><td>Break</td></tr>
 <tr><td>10:30-12:00</td><td>Comments, remarks and wrap-up: Recap important points of calculation setups</td></tr>
 <tr><td>12:00</td><td>Thank you and goodbye</td></tr>
@@ -103,14 +105,21 @@ Previous schools have lectures hosted [here](https://www.youtube.com/channel/UCy
 
 ### Registration
 
+Registration has ended. The workshop is full.
+
+<!--
 Please sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
 The cost of ~200 EUR is to be paid upon registration.
+-->
 
 
 ### Preparation training
 
 Students may join the SIESTA school before this for better understanding and a greater in-depth knowlegde
 of the SIESTA method, see [here](../SIESTA_School-2023) for details.
+
+Students are expected to have some experience with DFT codes and condensed matter physics at an
+introductory level.
 
 
 ### Contact
