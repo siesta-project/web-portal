@@ -60,36 +60,36 @@ It will be released [here](https://github.com/zerothi/ts-tbt-sisl-tutorial/relea
 
 <tbody>
 <tr><th COLSPAN="2"> Monday 13th November</th></tr>
-<tr><td>12:00-13:00</td><td>Registration + lunch</td></tr>
+<tr><td>12:00-13:00</td><td>Registration + lunch (covered by fee)</td></tr>
 <tr><td>13:00-15:00</td><td> Theory 1: Non-equilibrium Green function theory</td></tr>
-<tr><td>15:00-15:30</td><td> Coffee and cake</td></tr>
-<tr><td>15:30-17:00</td><td> Tutorial 1: Tight-binding and TBtrans</td></tr>
+<tr><td>15:00-15:30</td><td> Break</td></tr>
+<tr><td>15:30-17:00</td><td> Tutorial 1: Tight-binding and TBtrans [TB_1, TB_2, TB_3]</td></tr>
 
 <tr><th COLSPAN="2"> Tuesday 14th November</th></tr>
 <tr><td>09:00-09:45</td><td> Shotgun presentations 1 min per participant (1 or 2 slides MAX)</td></tr>
 <tr><td>09:45-10:00</td><td> Break</td></tr>
 <tr><td>10:00-12:00</td><td> Theory 2: Non-equilibrium Green function theory</td></tr>
-<tr><td>12:00-13:00</td><td> Lunch (sanchwich covered by fee)</td></tr>
-<tr><td>13:00-15:00</td><td> Tutorial 2: Tight-binding and TBtrans</td></tr>
+<tr><td>12:00-13:00</td><td> Lunch (covered by fee)</td></tr>
+<tr><td>13:00-15:00</td><td> Tutorial 2: Tight-binding and TBtrans [TB_4, TB_5]</td></tr>
 <tr><td>15:00-15:30</td><td> Break</td></tr>
-<tr><td>15:30-17:00</td><td> Tutorial 3: Tight-binding and TBtrans N-electrode</td></tr>
-<tr><td>20:00</td><td> Conference dinner in Lyngby at [Madklubben](https://maps.app.goo.gl/mRdsoxXrAxYS4MbZ7) (covered by fee)</td></tr>
+<tr><td>15:30-17:00</td><td> Tutorial 3: Tight-binding and TBtrans N-electrode [TB_6, TB_7]</td></tr>
+<tr><td>20:00</td><td> Conference dinner in Lyngby at Madklubben (covered by fee)</td></tr>
 
 <tr><th COLSPAN="2"> Wednesday 15th November</th></tr>
 <tr><td>09:00-09:30</td><td> Theory 3: NEGF for N-electrode calculations</td></tr>
-<tr><td>09:00-10:00</td><td> Tutorial 4: TranSIESTA calculations for N-electrodes</td></tr>
+<tr><td>09:00-10:00</td><td> Tutorial 4: TranSIESTA calculations for N-electrodes [TS_1]</td></tr>
 <tr><td>10:00-10:30</td><td> Break</td></tr>
-<tr><td>10:30-12:00</td><td> Tutorial 4: Continuing tutorials</td></tr>
-<tr><td>12:00-13:00</td><td> Lunch (sanchwich covered by fee)</td></tr>
+<tr><td>10:30-12:00</td><td> Tutorial 4: Continuing tutorials [TS_2, TS_4]</td></tr>
+<tr><td>12:00-13:00</td><td> Lunch (covered by fee)</td></tr>
 <tr><td>13:00-15:00</td><td> Theory 4 + Tutorial 5: Sofia Sanz (DTU)/Thomas Frederiksen (DiPC, Spain) Hubbard</td></tr>
 <tr><td>15:00-15:30</td><td> Break</td></tr>
-<tr><td>15:30-17:00</td><td> Tutorial 6: Plotting real space quantities</td></tr>
+<tr><td>15:30-17:00</td><td> Tutorial 6: Plotting real space quantities, opt for change</td></tr>
 
 <tr><th COLSPAN="2"> Thursday 16th November</th></tr>
 <tr><td>09:00-10:00</td><td>Tutorial 7: DFT -> TB -> Large scale tight-binding Gaetano Calogero, CNR-IMM, Italy/Isaac Alcon, ICN2, Spain</td></tr>
 <tr><td>10:00-10:30</td><td>Break</td></tr>
 <tr><td>10:30-12:00</td><td>Tutorial 7: Continuation</td></tr>
-<tr><td>12:00-13:00</td><td>Lunch (sandwich covered by fee)</td></tr>
+<tr><td>12:00-13:00</td><td>Lunch (covered by fee)</td></tr>
 <tr><td>13:00-15:00</td><td>Tutorial 8: Bilayer graphene + NPG (Xabier de Cerio, DiPC, Spain)</td></tr>
 <tr><td>15:00-15:30</td><td>Break</td></tr>
 <tr><td>15:30-17:00</td><td>Tutorial 8: Continuation</td></tr>
@@ -98,7 +98,7 @@ It will be released [here](https://github.com/zerothi/ts-tbt-sisl-tutorial/relea
 <tr><td>09:00-10:00</td><td>Tutorial 9: Real space self-energies</td></tr>
 <tr><td>10:00-10:30</td><td>Break</td></tr>
 <tr><td>10:30-12:00</td><td>Comments, remarks and wrap-up: Recap important points of calculation setups</td></tr>
-<tr><td>12:00</td><td>Thank you and goodbye</td></tr>
+<tr><td>12:00</td><td>Lunch (covered by fee); and thank you and see you again</td></tr>
 </tbody>
 </table>
 
