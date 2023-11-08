@@ -122,6 +122,12 @@ Students are expected to have some experience with DFT codes and condensed matte
 introductory level.
 
 
+### Computer requirements
+
+We expect students to come with their own laptops with a functional Linux or Mac operating system.
+Windows users may use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) to get a Linux system.
+
+
 ### Contact
 
 If questions arise, please do not hesitate to bring them up on the [sisl Discord channel](https://discord.gg/5XnFXFdkv2).
