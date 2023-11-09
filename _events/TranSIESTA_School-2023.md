@@ -91,7 +91,7 @@ It will be released [here](https://github.com/zerothi/ts-tbt-sisl-tutorial/relea
 <tr><td>10:00-10:30</td><td> Break</td></tr>
 <tr><td>10:30-12:00</td><td> Tutorial 7: Continuation</td></tr>
 <tr><td>12:00-13:00</td><td> Lunch (covered by fee)</td></tr>
-<tr><td>13:00-15:00</td><td> Tutorial 8: Bilayer graphene + NPG (Xabier de Cerio, DiPC, Spain)</td></tr>
+<tr><td>13:00-15:00</td><td> Tutorial 8: Real space quantities (LDOS) and merging of Hamiltonians Xabier de Cerio, DiPC, Spain</td></tr>
 <tr><td>15:00-15:30</td><td> Break</td></tr>
 <tr><td>15:30-17:00</td><td> Tutorial 8: Continuation</td></tr>
 
