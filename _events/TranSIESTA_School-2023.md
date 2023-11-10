@@ -74,14 +74,15 @@ It will be released [here](https://github.com/zerothi/ts-tbt-sisl-tutorial/relea
 <tr><td>12:00-13:00</td><td> Lunch (covered by fee)</td></tr>
 <tr><td>13:00-15:00</td><td> Tutorial 2+3: continued</td></tr>
 <tr><td>15:00-15:30</td><td> Break</td></tr>
-<tr><td>15:30-17:00</td><td> Tutorial 2+3: Tight-binding and TBtrans [TB_4, TB_5, optionally A_1]</td></tr>
+<tr><td>15:30-17:00</td><td> Tutorial 2+3: Tight-binding and TBtrans [TB_4, TB_5, optionally TB_9, A_1]</td></tr>
 <tr><td>20:00</td><td> Conference dinner in Lyngby at Madklubben (covered by fee)</td></tr>
 
 <tr><th COLSPAN="2"> Wednesday 15th November</th></tr>
 <tr><td>09:00-09:30</td><td> Theory 3: NEGF for N-electrode calculations</td></tr>
-<tr><td>09:30-10:30</td><td> Tutorial 4: TranSIESTA calculations for N-electrodes [TS_4, optionally TS_5]</td></tr>
-<tr><td>10:30-10:45</td><td> Break</td></tr>
-<tr><td>10:45-12:00</td><td> Tutorial 5: Tight-binding and TBtrans N-electrode [TB_6, TB_7]</td></tr>
+<tr><td>09:30-10:00</td><td> Tutorial 4: Tight-binding and TBtrans N-electrode [TB_6]</td></tr>
+<tr><td>10:00-10:30</td><td> Tutorial 4: TranSIESTA calculations for N-electrodes [TS_4]</td></tr>
+<tr><td>10:45-11:00</td><td> Break</td></tr>
+<tr><td>11:00-12:00</td><td> Tutorial 4: TBtrans + TranSIESTA calculations [TB_7 (can be skipped if you want deeper understanding of the other exercises), optionally TS_5]</td></tr>
 <tr><td>12:00-13:00</td><td> Lunch (covered by fee)</td></tr>
 <tr><td>13:00-15:00</td><td> Theory 4 + Tutorial 5: Sofia Sanz (DTU)/Thomas Frederiksen (DiPC, Spain) Hubbard</td></tr>
 <tr><td>15:00-15:30</td><td> Break</td></tr>
