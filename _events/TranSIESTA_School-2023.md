@@ -39,7 +39,7 @@ Topics covered (may be subject to changes):
 * Correlated systems and the mean field Hubbard model.
 * Single contacts by removal of periodic images.
 * Modelling of extremely large systems with DFT precision.
-* Bilayer graphene structures and tight-binding models.
+* Manipulation of Hamiltonians by merging and creating real-space plots.
 
 It will cost ~200 EUR (1.500 DKK) to participate, paid in advance. This will cover lunches, coffee breaks and the conference dinner.
 One can sign up [here](https://www.conferencemanager.dk/invitation-workshoptoolsforelectiontransport).
