@@ -3,7 +3,7 @@ layout: siesta-nav
 title: "First steps with SIESTA: from zero to hero"
 dates: "2nd - 6th October 2023"
 eventID: 202310
-past: false
+past: true
 ---
 # {{ page.title }}
 ## CECAM Flagship School, {{ page.dates }} (online)
