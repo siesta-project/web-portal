@@ -21,10 +21,12 @@ post-processing tools will also be presented.
 
 The School will consist of lectures from senior SIESTA developers
 and hands-on sessions where SIESTA experts will be available for discussion and guidance.
+These sessions will take place between 12:30 CEST and 17:30 CEST.
 
-While autonomous work on the exercises will be possible throughout the day,
-lectures and most discussions will take place in the central hours of the day
-(Central European Summer Time).
+Autonomous work on the exercises will be possible throughout the day.
+
+**UPDATE: You may find detailed information on the planned sessions and tutorials
+[here](Sessions.html).**
 
 ### Course materials
 
@@ -72,6 +74,7 @@ including registration and a tentative program.
 * Emilio Artacho (Nanogune, Spain; and University of Cambridge, UK)
 * Antonio Cammarata (Czech Technical University in Prague, Czech Republic)
 * José Mª Escartín (ICN2, Spain)
+* Julio Gutiérrez (BSC, Spain)
 * Nick Papior (DTU, Denmark)
 * Federico Pedron (ICN2, Spain)
 * Miguel Pruneda (CSIC, Spain)
