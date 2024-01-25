@@ -3,7 +3,7 @@ layout: siesta-nav
 title: TranSIESTA School 2023
 dates: "13th - 17th November 2023"
 eventID: 202311
-past: false
+past: true
 ---
 # {{ page.title }}
 ## Technical University of Denmark, {{ page.dates }}
