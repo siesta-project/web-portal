@@ -1,3 +1,6 @@
+THIS REPO HAS BEEN MADE READ-ONLY
+DEVELOPMENT HAS MOVED TO GITLAB
+
 Repository to maintain the SIESTA-project website.
 
 The SIESTA-project is maintained and hosted on GitLab and can be found [here][siesta-gitlab].
